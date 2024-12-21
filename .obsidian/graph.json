@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Fragments  -path:Ideas  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 11137646
+      }
+    },
+    {
+      "query": "path:Personages  ",
+      "color": {
+        "a": 1,
+        "rgb": 13199103
+      }
+    },
+    {
+      "query": "path:Ideas  ",
+      "color": {
+        "a": 1,
+        "rgb": 4539717
+      }
+    },
+    {
+      "query": "path:Fragments  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Évenements  ",
+      "color": {
+        "a": 1,
+        "rgb": 8443135
+      }
+    },
+    {
+      "query": "path:Lieux  ",
+      "color": {
+        "a": 1,
+        "rgb": 2687221
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

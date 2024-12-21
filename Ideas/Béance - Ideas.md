@@ -1,0 +1,1 @@
+Vrai concept ou métaphore de [[Asborne]] ?
