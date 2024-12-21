@@ -1,3 +1,5 @@
+[[Oracle Pourpre F2 - Ideas]]
+
 ### Description :
 Idk
 
@@ -15,7 +17,7 @@ A eu des plans autres que juste aider [[Asborne]]
 - [[Asborne]] sur le trône, [[Oracle Pourpre F2|OPF2]] debout sur le côté un peu dans l'ombre
 	- EN FAIRE UN FRAGMENT DESCRIPTION TABLEAU
 
-### Lien à des œuvres extérieures :
+### Lien à d'autres œuvres :
 - Tails
 	- Genre il est à [[Asborne]] ce que Tails est à Sonic
 	- Quelques vibes en terme de personnalité mais pas la même chose

@@ -1,6 +1,6 @@
 Contée dans [[2]]
 
-Défaite du Roi [[Peliades]]
+Défaite du Roi [[Peliades]] de la façon dont l'avait annoncé l'[[Oracle Pourpre F2]] malgré toutes ses préparations pour l'en empêcher : passage secret et barrière protectrice magique puissante
 Marque la complétion de la [[Conquête de La Forteresse par Asborne]]
 
 > Le [[Peliades|roi]] se leva, tremblant, et cracha avec un sourire dément :

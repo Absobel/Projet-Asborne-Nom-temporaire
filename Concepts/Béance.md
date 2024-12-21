@@ -1,5 +1,5 @@
 [[Béance - Ideas]]
 
-Lien à des œuvres extérieures :
+Lien à d'autres œuvres :
 - Mythologie grecque
 	- L'état primordial du monde

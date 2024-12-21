@@ -7,7 +7,7 @@ Quand colérique, aussi colérique que joyeux
 
 ### Autre :
 Variante d'[[Asborne]] : clone/autre monde/idk smth ([[Fragments - Ideas]])
-Très très destructeur, partage le côté op de Asborne
+Très très destructeur, partage le côté op de [[Asborne]]
 Enby
 Arme : épée magique je suppose
 
@@ -15,7 +15,7 @@ Arme : épée magique je suppose
 - Jaune, blanc, gris clair, et nuances, ciel jaune foncé en fond
 - rouge, noir quand big colère, sang
 
-### Lien à des œuvres extérieures :
+### Lien à d'autres œuvres :
 - Uriel | ORV
 	- Ange, enthousiasme, destructeur
 - Surya | ORV

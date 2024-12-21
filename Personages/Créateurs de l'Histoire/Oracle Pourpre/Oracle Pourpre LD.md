@@ -1,3 +1,4 @@
+[[Oracle Pourpre LD - Ideas]]
 ### Description :
 vieille personne
 
@@ -11,7 +12,7 @@ est morte sans trouver de successeur et à donc enregistré ce qu'elle aurait à
 - ça montre une capacité de medium extrêmement puissante
 Assassinée
 
-### Lien à des œuvres extérieures :
+### Lien à d'autres œuvres :
 - Angela | Eragon
 - Gertrude | TMA
 	- Involontairement mais big big big vibes

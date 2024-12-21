@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Fragments  -path:Ideas  ",
+  "search": "-path:Fragments -path:Ideas  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,21 +11,21 @@
       "query": "path:Concepts  ",
       "color": {
         "a": 1,
-        "rgb": 11137646
+        "rgb": 7383039
       }
     },
     {
-      "query": "path:Personages  ",
+      "query": "path:\"Personages/Créateurs de l'Histoire\"  ",
       "color": {
         "a": 1,
-        "rgb": 13199103
+        "rgb": 16021196
       }
     },
     {
       "query": "path:Ideas  ",
       "color": {
         "a": 1,
-        "rgb": 4539717
+        "rgb": 16515010
       }
     },
     {
@@ -36,17 +36,31 @@
       }
     },
     {
-      "query": "path:Évenements  ",
+      "query": "path:\"Évenements/Piliers de l'Histoire\"  ",
       "color": {
         "a": 1,
-        "rgb": 8443135
+        "rgb": 16754734
       }
     },
     {
       "query": "path:Lieux  ",
       "color": {
         "a": 1,
-        "rgb": 2687221
+        "rgb": 16729882
+      }
+    },
+    {
+      "query": "path:\"Personages/Oubliés de l'Histoire\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5182012
+      }
+    },
+    {
+      "query": "path:\"Évenements/Poussière d'Histoire\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8015166
       }
     }
   ],
@@ -55,11 +69,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 1.0000000000000002,
+  "close": false
 }

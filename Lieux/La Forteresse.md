@@ -7,7 +7,7 @@ Habitants connus :
 	- Dirigeant, jusqu'à sa mort
 - [[Oracle Pourpre F2]]
 	- Oracle royal jusqu'à la conquête de la ville
-- [[Vingt Chevliers d'Enedir]]
+- [[Vingt Chevaliers d'Enedir]]
 	- Protecteurs au service de [[Peliades]]
 
 Événements :

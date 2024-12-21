@@ -11,7 +11,7 @@ A une femme et des enfants
 ### Vibes :
 - Average connard de roi
 
-### Lien à des œuvres extérieures :
+### Lien à d'autres œuvres :
 - Eragon
 	- Pour le nom, vient du nom de la vallée là
 - Pléiades
