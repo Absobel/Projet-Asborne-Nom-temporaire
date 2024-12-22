@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "-path:Fragments -path:Ideas  ",
+  "collapse-filter": true,
+  "search": "-path:Ideas  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Concepts  ",
@@ -64,16 +64,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 9.48719851576994,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000002,
-  "close": false
+  "linkDistance": 170,
+  "scale": 0.6906395020147814,
+  "close": true
 }

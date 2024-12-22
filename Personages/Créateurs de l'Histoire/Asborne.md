@@ -15,7 +15,7 @@ Majoritairement mage
 Autres dénominations :
 - Roi-Sorcier
 
-### Lien à d'autres œuvres :
+### Liens à d'autres œuvres :
 - Ashborn monarch de l'ombre | Solo Leveling
 	- nom + op
 - Le Docteur

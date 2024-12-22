@@ -9,8 +9,9 @@ Fragment Tableau :
 - Comment est habillé [[Asborne]] ?
 - Introduction à cette description ? Qqn qui trouve une archive bien après et qui vois un [[Asborne]] plus jeune, à cette époque lointaine de légende
 	- Découverte de qqch à propos du passé de qqn, banger
-	- Qui découvre ?
-	- Où il découvre
+	- Où et qui le découvre
+		- [[Oracle Pourpre LD]] le découvre dans [[Abysse de la Solitude]] 
+			- Permet de montrer le perso vulnérable parce que lointain prédecesseur dont l'ombre de ses plans en marche continue de peser sur elle
 
 
 Fragment [[Absariel]] :

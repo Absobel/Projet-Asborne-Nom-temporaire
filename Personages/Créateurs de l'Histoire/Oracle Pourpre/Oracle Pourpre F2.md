@@ -16,8 +16,9 @@ A eu des plans autres que juste aider [[Asborne]]
 ### Vibes :
 - [[Asborne]] sur le trône, [[Oracle Pourpre F2|OPF2]] debout sur le côté un peu dans l'ombre
 	- EN FAIRE UN FRAGMENT DESCRIPTION TABLEAU
+	- [[Fragments - Ideas]]
 
-### Lien à d'autres œuvres :
+### Liens à d'autres œuvres :
 - Tails
 	- Genre il est à [[Asborne]] ce que Tails est à Sonic
 	- Quelques vibes en terme de personnalité mais pas la même chose

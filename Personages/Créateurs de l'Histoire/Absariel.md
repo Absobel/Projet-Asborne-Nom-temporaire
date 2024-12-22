@@ -15,7 +15,7 @@ Arme : épée magique je suppose
 - Jaune, blanc, gris clair, et nuances, ciel jaune foncé en fond
 - rouge, noir quand big colère, sang
 
-### Lien à d'autres œuvres :
+### Liens à d'autres œuvres :
 - Uriel | ORV
 	- Ange, enthousiasme, destructeur
 - Surya | ORV
