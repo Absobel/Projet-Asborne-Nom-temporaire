@@ -1,6 +1,6 @@
-Fabrique de la magie
-
 [[Wyrn - Ideas]]
+
+Fabrique de la magie
 
 Lien à d'autres œuvres :
 - Le Livre des Étoiles

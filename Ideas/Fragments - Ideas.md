@@ -19,6 +19,7 @@ Fragment [[Absariel]] :
 
 Fragments [[Oracle Pourpre LD]]
 - Recueil d'enregistrements
+- [[Oracle Pourpre LD]] dans une salle de l'[[Abysse de la Solitude]], sans paroles, solitaire
 
 Autres idées de fragments :
 - Qqch sous la forme d'un conte

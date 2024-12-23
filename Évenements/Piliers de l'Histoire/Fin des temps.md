@@ -1,5 +1,5 @@
 « Après les étoiles, c’est la fabrique même du [[Wyrn]] qui se dissoudra dans la [[Béance]]. »
-— [[Oracle Pourpre Anonyme]]
+— [[Oracle Pourpre F1]]
 
 Contée dans [[1]]
 

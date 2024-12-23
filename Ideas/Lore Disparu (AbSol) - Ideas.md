@@ -1,0 +1,11 @@
+Notes de ce que je me souviens qui n'a pas ou ne sera pas repris :
+- Roi hautain inconnu prenant des audiences ([[Peliades]] ?)
+	- faut relire les audiences mais tbh je pense qu'il faut l'intégrer ce perso
+- Chevaliers protecteurs et leur pages
+	- En fait ça nécessite de répondre à la question d'après, si y'a réponse. Et je pense que la réponse va être non pour les deux parce que, 
+- Maître suprême de l'univers et de tout le reste (== [[Asborne]] ?)
+- Roles
+	- Humain normal/supérieur/complet et total
+	- Anagual ∅/Sempiternel/Infini
+	- Étoile matinale/de l'Au-Delà/Solenelle
+	- Des êtres peuplants l'[[Abysse de la Solitude]], les distinctions en plus je pense seraient pas intrinsèques au monde mais plus un dérivée de la société qui s'est construite autour
