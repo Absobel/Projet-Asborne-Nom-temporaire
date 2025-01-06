@@ -6,12 +6,16 @@ Idk
 ### Personnalité :
 Calme, réservé, bonne ambiance/bonne humeur calme, prévoyant (lol)
 
+### Histoire :
+- Au service de [[Peliades]]
+	- Prévoit la [[Conquête de La Forteresse par Asborne]]
+- [[Rencontre d'Asborne et OPF2]]
+
 ### Autre :
-Anciennement au service de [[Peliades]]
 Meilleur ami/bras droit d'[[Asborne]] à l'époque. [[Rencontre d'Asborne et OPF2]]
-Contrepartie calculatrice de la hot hotheadedness de son pote
+Contrepartie calculatrice de la hot hotheadedness de son pote, funnel du gars vers des objectifs
 Il est resté dans l'ombre de l'histoire
-A eu des plans autres que juste aider [[Asborne]]
+A eu des plans autres que juste aider [[Asborne]]. Des plans invariablement lié au futur, à la postérité, dus à la nature de ses pouvoirs.
 
 ### Vibes :
 - [[Asborne]] sur le trône, [[Oracle Pourpre F2|OPF2]] debout sur le côté un peu dans l'ombre

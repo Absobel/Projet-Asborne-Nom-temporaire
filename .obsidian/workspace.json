@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre LD.md",
+                "file": "Concepts/Anagual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oracle Pourpre LD"
+              "title": "Anagual"
             }
           },
           {
@@ -39,14 +39,10 @@
             "id": "9501f9cc1ec14638",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fragments/Lore Disparu (AbSol).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lore Disparu (AbSol)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -55,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Projet - Ideas.md",
+                "file": "Fragments/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projet - Ideas"
+              "title": "2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Projet - Ideas.md",
+                "file": "Ideas/Fragments - Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projet - Ideas"
+              "title": "Backlinks for Fragments - Ideas"
             }
           },
           {
@@ -205,34 +201,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353b7de29eea83b2",
+  "active": "9501f9cc1ec14638",
   "lastOpenFiles": [
+    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre F2.md",
+    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre LD.md",
+    "Personages/Créateurs de l'Histoire/Asborne.md",
+    "Évenements/Piliers de l'Histoire/Conquête de La Forteresse par Asborne.md",
+    "Évenements/Piliers de l'Histoire/Intrusion des Étoiles dans l'esprit d'OLPD enfant.md",
+    "Fragments/3.md",
+    "Fragments/Lore Disparu (AbSol).md",
+    "Fragments/2.md",
+    "Fragments/1.md",
+    "Ideas/Projet - Ideas.md",
     "Projet.md",
+    "Concepts/Wyrn.md",
+    "Évenements/Piliers de l'Histoire/Fin des temps.md",
+    "Ideas/Wyrn - Ideas.md",
+    "Ideas/1 - Ideas.md",
+    "Ideas/2 - Ideas.md",
+    "Ideas/Béance - Ideas.md",
+    "Concepts/Béance.md",
     "Ideas/Oracle Pourpre LD - Ideas.md",
     "Ideas/Oracle Pourpre F2 - Ideas.md",
-    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre F2.md",
-    "Ideas/2 - Ideas.md",
-    "Personages/Oubliés de l'Histoire/Peliades.md",
-    "Personages/Créateurs de l'Histoire/Absariel.md",
-    "Ideas/Wyrn - Ideas.md",
-    "Ideas/Projet - Ideas.md",
     "Ideas/Oracle Pourpre F1 - Ideas.md",
     "Ideas/Oracle Pourpre - Ideas.md",
     "Ideas/Lore Disparu (AbSol) - Ideas.md",
     "Ideas/Fragments - Ideas.md",
-    "Ideas/Béance - Ideas.md",
-    "Ideas/Asborne - Ideas.md",
-    "Concepts/Wyrn.md",
-    "Ideas/Abysse - Ideas.md",
-    "Ideas/1 - Ideas.md",
-    "Ideas/Abysse de la Solitude - Ideas.md",
-    "Lieux/Abysse de la Solitude.md",
-    "Concepts/Abysse.md",
+    "Évenements/Piliers de l'Histoire/Rencontre d'Asborne et OPF2.md",
     "Évenements/Piliers de l'Histoire/Assassinat de Oracle Pourpre LD.md",
-    "Personages/Oubliés de l'Histoire/Vingt Chevaliers d'Enedir.md",
-    "Évenements/Poussière d'Histoire/Défaite du Roi Peliades.md",
-    "Évenements/Piliers de l'Histoire/Conquête de La Forteresse par Asborne.md",
-    "Personages/Créateurs de l'Histoire/Asborne.md",
     "Évenements/Piliers de l'Histoire",
     "Évenements/Poussière d'Histoire",
     "Projet-Asborne-Nom-temporaire-",

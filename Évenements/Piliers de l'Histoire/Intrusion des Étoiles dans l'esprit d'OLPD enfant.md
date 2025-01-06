@@ -1,0 +1,3 @@
+Mentionné dans [[3]]
+
+> Sa première expérience avec cette pièce remontait à sa première visite de l’[[Abysse de la Solitude]] durant son enfance. \[...\] [[Asborne]] l’accompagnait, elle ne se souvenait plus pourquoi il l’avait amenée ni ce qu’il lui avait dit à l’époque. Il lui tenait la main et la guidait doucement dans ce labyrinthe sans fin, comme s’ils avaient tout le temps du monde. Ensuite vint [[Plateforme des Étoiles Muettes|cette salle]]. Ses souvenirs étaient flous mais elle se rappelait être là, sur la plateforme, seule, toute l’immensité de l’endroit essayant d’entrer dans son esprit comme un torrent s’écrasant contre une simple porte.

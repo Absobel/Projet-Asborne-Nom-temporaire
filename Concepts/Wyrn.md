@@ -1,6 +1,9 @@
 [[Wyrn - Ideas]]
 
 Fabrique de la magie
+Peut être médium de divination
+
+À la [[Fin des temps]], s'est dissous dans la [[Béance]]
 
 Lien à d'autres œuvres :
 - Le Livre des Étoiles

@@ -3,12 +3,17 @@
 Description :
 
 Nul ne sait comment cet endroit s'est mis à exister ni comment [[Asborne|le Roi-Sorcier]] s'en est-il emparé. C'est un endroit grand, composé de salles, de voûtes, de recoins, etc, il ne parait pas extrêmement grand mais à la fois on en découvre des nouvelles facettes à chaque fois. Il ne semble pas être fixe, et la magie y est très forte, surtout à certains endroits. 
-Ce lieu semble être suspendu parmi les étoiles. À peu près aussi présent que la matière noire composant la moitié des murs et du sol, il y avait des vitres donnant sur l'espace bleuté et ses étoiles.
-Les habitants y vivent en une petite communauté centrée autour d'une des plus grandes salles connues. Ils y vivent une vie tranquille bien que vide...
+Ce lieu semble être suspendu parmi les étoiles. À peu près aussi présent que la matière noire composant la moitié des murs et du sol, il y avait des vitres donnant sur l'espace bleuté et ses étoiles. Pourtant on voit pas les autres salles ou murs ou sols par les vitres, que le vide étoilé.
+Les [[Anagual|habitants]] y vivent en une petite communauté centrée autour d'une des plus grandes salles connues. Ils y vivent une vie tranquille bien que vide... N'étaient pas là durant l'enfance de [[Oracle Pourpre LD]]
 
-Cette [[Abysse]] modélise [[Asborne|le Roi-Sorcier lui-même]] causant cette magie très forte dans ces "grottes"
+Cette [[Abysse]] modélise [[Asborne|le Roi-Sorcier lui-même]] causant cette magie très forte dans ces "grottes" comme :
+- Orbes de pouvoir pur
+- Aberrations magiques
 
 Autre nom : AbSol
+
+Notes randoms :
+- À tendance à faire oublier le concept de temps
 
 Habitants connus (durant [[Lore Disparu (AbSol)]]) :
 - [[Asborne]]
