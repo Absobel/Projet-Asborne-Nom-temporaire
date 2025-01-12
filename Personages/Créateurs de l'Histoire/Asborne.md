@@ -13,7 +13,7 @@ plus vieux : résigné, battu par la vie, détaché du monde
 	- [[Conquête de La Forteresse par Asborne]]
 	- [[Rencontre d'Asborne et OPF2]]
 - [[Rencontre d'Asborne et d'OPLD]]
-	- [[Intrusion des Étoiles dans l'esprit d'OLPD enfant]]
+	- [[Intrusion des Étoiles dans l'esprit d'OPLD enfant]]
 	- [[3]] (les mentions d'Asborne sont vers là dans la causalité)
 - [[Lore Disparu (AbSol)]]
 - [[1]]

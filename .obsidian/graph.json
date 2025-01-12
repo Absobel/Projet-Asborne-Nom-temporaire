@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:Ideas",
+  "collapse-filter": true,
+  "search": "-path:Metadata",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:Ideas  ",
+      "query": "path:Metadata  ",
       "color": {
         "a": 1,
         "rgb": 16515010
@@ -74,6 +74,6 @@
   "repelStrength": 9.5821892393321,
   "linkStrength": 1,
   "linkDistance": 90,
-  "scale": 0.8681574081704991,
+  "scale": 0.5995838000493201,
   "close": true
 }

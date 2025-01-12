@@ -5,7 +5,7 @@ Contée dans [[2]]
 
 > Tandis que ses proches étaient paralysés par le choc, le mystérieux personnage s’agenouilla devant [[Asborne]] : 
 > 
-> « Je suis l’[[Oracle Pourpre F2|Oracle Pourpre]], observateur de l’éternité, voyageur des temps, et je bénis votre règne, Roi-Sorcier. »
+> « Je suis l’[[Oracle Pourpre F2|Oracle Pourpre]], observateur de l’éternité, voyageur des temps, et je bénis votre règne, [[Asborne|Roi-Sorcier]]. »
 
 Notes :
 - Mention prophétique d'[[Asborne]] sous le titre de Roi-Sorcier

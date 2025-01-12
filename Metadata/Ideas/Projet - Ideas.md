@@ -1,11 +1,11 @@
 QUEL NOM DONNER À CE TRUC
 - Qqch en rapport avec Fragment ?
-- En rapport avec [[Asborne]]/Roi-Sorcier ?
+- En rapport avec [[Asborne]]/[[Asborne|Roi-Sorcier]] ?
 	- Clairement les Oracles ont une importance capitale dans ce projet
 - ~~En rapport avec AbSol sans que ce soit AbSol parce que lien avec pokemon~~
 	- Nan AbSol c'est choisi maintenant
 
-Okay il faut absolument que ça ait des éléments d'Asborne et des Oracles Pourpres. Idéalement que ça représente le fait qu'il y a une relation complexe et indivisible entre les deux
+Okay il faut absolument que ça ait des éléments d'[[Asborne]] et des Oracles Pourpres. Idéalement que ça représente le fait qu'il y a une relation complexe et indivisible entre les deux
 Ou alors donner un nom plus vaste, qui montre que c'est quelque chose de plus que juste interactions entre les deux
 En fait ai-je envie de nommer le monde, ou juste Asborne et cie ?
 Parce que je me vois vraiment bien écrire des choses sur d'autres personnages et étoffer des concepts d'une autre manière

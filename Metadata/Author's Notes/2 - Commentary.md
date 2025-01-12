@@ -1,0 +1,1 @@
+J'avais envie d'écrire de la badassitude pure. J'en ai profité visiblement pour en faire une sorte d'origin story.

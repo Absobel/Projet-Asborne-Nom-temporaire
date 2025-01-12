@@ -1,0 +1,1 @@
+Le premier texte que j'ai écrit sur ce monde. Une volonté de faire quelque chose de très mélancolique bitter sweet que j'ai envie de garder sur l'entièreté de ce projet.

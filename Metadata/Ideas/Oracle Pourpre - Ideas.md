@@ -1,6 +1,4 @@
 Création du titre ?
-Est-ce que le titre est juste un titre ou qqch de magique derrière ?
-- Entité du "Poupre" comme ce que tire Dr Strange des autres entités idk ? [[3 - Ideas]]
 
 Thématiquement y'a un lien avec [[Asborne]] ça c'est sur, mais est-ce que ce lien se poursuit inlore ?
 J'aurais tendance à dire oui mais uniquement parce que c'est ce que voulait [[Oracle Pourpre F2]] et que ça c'est répercuté sur tout le futur

@@ -1,0 +1,1 @@
+J'avais envie de donner un fragment à [[Oracle Pourpre LD]] pour pas qu'elle soit juste tirée du [[Lore Disparu (AbSol)]]. Je me base d'une idée de texte que j'avais commencé à écrire dans le serveur mais que j'ai oublié mais c'était la vibe qui m'a fait créer l'[[Abysse de la Solitude]] et tout

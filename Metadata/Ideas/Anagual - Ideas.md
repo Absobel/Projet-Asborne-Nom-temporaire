@@ -1,5 +1,5 @@
 Anaguals créations d'[[Asborne]] ? Créatures informes idk ?
-- Êtres réels transformés petit à petit par l'influence involontaire d'Asborne via l'Abysse
+- Êtres réels transformés petit à petit par l'influence involontaire d'[[Asborne]] via l'Abysse
 	- D'où viennent ces êtres ?
 		- Humains ?
 	- Transformé/Corrompu par le concept de l'[[Abysse]] ou par spécifiquement l'[[Abysse de la Solitude||AbSol]] ?

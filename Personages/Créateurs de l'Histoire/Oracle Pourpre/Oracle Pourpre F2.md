@@ -1,3 +1,7 @@
+---
+aliases:
+  - OPF2
+---
 [[Oracle Pourpre F2 - Ideas]]
 
 ### Description :

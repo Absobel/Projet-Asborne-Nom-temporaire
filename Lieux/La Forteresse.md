@@ -1,3 +1,5 @@
+[[La Forteresse - Commentary]]
+
 Description :
 Ville fortifiée
 En trois parties concentriques de richesse : bas-fonds, hauts-fonds et ville royale
@@ -13,5 +15,3 @@ Habitants connus :
 Événements :
 - [[Conquête de La Forteresse par Asborne]]
 - [[Défaite des Vingt Chevaliers d'Enedir]]
-### Commentaires :
-Tbf je crois que mon but était principalement de faire average ville anonyme pas importante

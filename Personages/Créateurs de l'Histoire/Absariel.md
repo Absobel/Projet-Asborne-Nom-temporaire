@@ -1,3 +1,4 @@
+[[Absariel - Ideas]]
 ### Description :
 Ange, jeune
 
@@ -6,14 +7,13 @@ Joyeux, brillant, enthousiaste, peut-être manic des fois
 Quand colérique, aussi colérique que joyeux
 
 ### Autre :
-Variante d'[[Asborne]] : clone/autre monde/idk smth ([[Fragments - Ideas]])
+Variante d'[[Asborne]] : de quel manière idk
 Très très destructeur, partage le côté op de [[Asborne]]
 Enby
 Arme : épée magique je suppose
 
 ### Vibes :
 - Jaune, blanc, gris clair, et nuances, ciel jaune foncé en fond
-- rouge, noir quand big colère, sang
 
 ### Liens à d'autres œuvres :
 - Uriel | ORV
