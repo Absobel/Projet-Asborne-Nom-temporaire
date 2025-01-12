@@ -13,14 +13,13 @@ Fragment Tableau :
 		- [[Oracle Pourpre LD]] le découvre dans [[Abysse de la Solitude]] 
 			- Permet de montrer le perso vulnérable parce que lointain prédecesseur dont l'ombre de ses plans en marche continue de peser sur elle
 
-
 Fragment [[Absariel]] 1 :
 A light-hearted adventure showcasing [[Absariel]]’s radiant, joyful personality. Set under a bright, golden sky, they lead a cheerful group of friends on a quest to recover an artifact—a MacGuffin. The tone is carefree and jovial, with no real danger, allowing [[Absariel]]’s charm and charisma to shine. Maybe hint at the end at a connection with the [[Pourpre]]
 
 Fragment [[Absariel]] 2:
 - variant d'[[Asborne]]
 - À quel point lien avec [[Asborne]] tho. Parce qu'on dit variant mais est-ce que ça inclus lien avec Oracle Pourpre ? J'ai envie de dire que pas exactement
-	- What if Absariel a un lien avec l'entité du Pourpre directement ?
+	- What if [[Absariel]] a un lien avec l'entité du Pourpre directement ?
 
 Fragments [[Oracle Pourpre LD]]
 - Recueil d'enregistrements
