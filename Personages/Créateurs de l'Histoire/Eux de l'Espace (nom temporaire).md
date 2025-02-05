@@ -1,0 +1,1 @@
+[[Eux (nom temporaire)]] lié à l'[[Espace]]. Il semble avoir une grande autorité sur les autres et semble être celui qui empiète le plus sur les autres [[Facette]] (surtout le [[Temps]])

@@ -1,2 +1,0 @@
-Vrai concept ou métaphore de l'[[Oracle Pourpre F1|Oracle]] ?
-Si vrai concept alors je veux un truc différent de la Béance grecque, juste l'état primordial des choses c'est boring. Je veux quelque chose de plus

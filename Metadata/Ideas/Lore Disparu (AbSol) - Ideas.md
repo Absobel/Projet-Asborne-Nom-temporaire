@@ -5,6 +5,7 @@ Notes de ce que je me souviens qui n'a pas ou ne sera pas repris :
 	- En fait ça nécessite de répondre à la question d'après, si y'a réponse. Et je pense que la réponse va être non pour les deux parce que, 
 - Maître suprême de l'univers et de tout le reste (== [[Asborne]] ?)
 	- En vrai je pense pas, mais est-ce que c'est nécessaire de l'introduire ? Une sorte de Celestial Toymaker maybe
+	- [[Eux de l'Espace (nom temporaire)]] oooh, mais quel lien avec [[Abysse de la Solitude]] then
 - Roles
 	- Humain normal/supérieur/complet et total
 	- Anagual ∅/Sempiternel/Infini
@@ -12,3 +13,4 @@ Notes de ce que je me souviens qui n'a pas ou ne sera pas repris :
 	- Des êtres peuplants l'[[Abysse de la Solitude]], les distinctions en plus je pense seraient pas intrinsèques au monde mais plus un dérivée de la société qui s'est construite autour
 - La Mort ???
 	- "Oyez, Oyez, l'Oracle Pourpre a une annonc- — Laissez passer je suis la Mort, il me semble approprié que je sois celle qui parle et pas cette vieille peau d'Oracle Pourpre. Je suis déçu que rares soient ceux m'ayant concocté un poème, mais j'en remercie d'autant plus ceux l'ayant fait. Le poème que j'ai trouvé le plus beau est celui de @Salhiaa, félicitations, il faut le faire pour impressionner la Mort en personne mais c'est réussi ! Je vais lire devant vous ce très beau poème : \[...] Encore bravo et j'espère ne pas vous revoir vite. — ... Ahem, excusez-moi madame la Mort mais vous deviez ressusciter notre chevalier. — Ah c'est vrai, j'ai manqué de près d'oublier. **ספּאטנשעבּ אגזעשׁםץ לדפּק** Voilà, c'est fait. Au-revoir. — Ahem, bon felicitation à notre chère Chevalier revenu d'entre les morts !"
+	- Un des [[Eux (nom temporaire)]] ?? mais encore une fois lien avec [[Abysse de la Solitude]] ?

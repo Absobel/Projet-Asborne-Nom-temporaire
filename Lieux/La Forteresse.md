@@ -15,3 +15,8 @@ Habitants connus :
 Événements :
 - [[Conquête de La Forteresse par Asborne]]
 - [[Défaite des Vingt Chevaliers d'Enedir]]
+
+
+### Commentary
+
+Tbf je crois que mon but était principalement de faire average ville anonyme pas importante

@@ -20,7 +20,7 @@ plus vieux : résigné, battu par la vie, détaché du monde
 
 ### Autre :
 Personnage intemporel/immortel extrêmement puissant
-Majoritairement mage
+Majoritairement mage, sa maîtrise du [[Wyrn]] est une des qualités dont il est le plus fier.
 
 Autres dénominations :
 - Roi-Sorcier

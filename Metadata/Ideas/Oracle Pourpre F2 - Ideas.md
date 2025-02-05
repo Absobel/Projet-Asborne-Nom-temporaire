@@ -12,9 +12,10 @@ Autre chose, s'il est si puissant, et qu'il avait vraiment tout prévu, comment 
 - Soit partir sur la contrainte qu'il sait vraiment déjà tout en avance, mais dans ce cas-là damn how to write that
 - Soit mettre des limites sur ses pouvoir mais dans ce cas-là, lesquelles ? Et comment garder cette idée vachement cool du fait qu'il a impacté l'entièreté du reste de la timeline. Juste un "c'est comme ça" du big événement [[Asborne]] x [[Oracle Pourpre F2|OPF2]] ?
 
-En fait ça nécessite de réfléchir sur le concept du Temps :
+En fait ça nécessite de réfléchir sur le concept du [[Temps]] :
 - Déterminisme ?
 	- Rend le pouvoir de l'Oracle parfait op et moins intéressant/plus dur à écrire de manière intéressante
 - What else ?
 - À retenir, faire des recherches sur les différentes façon de voir le temps et checker laquelle est la meilleure pour coller à la thématique du mystérieux et du conte 
 	- Checker l'éternalisme de warframe
+- reréflechir avec l'idée des [[Facette]] en tête telles qu'écrites dans [[4]]

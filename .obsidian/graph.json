@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Metadata",
   "showTags": false,
   "showAttachments": false,
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 8015166
       }
+    },
+    {
+      "query": "path:Artefacts  ",
+      "color": {
+        "a": 1,
+        "rgb": 9108991
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 9.5821892393321,
   "linkStrength": 1,
   "linkDistance": 90,
-  "scale": 0.5995838000493201,
+  "scale": 0.39639123381020297,
   "close": true
 }

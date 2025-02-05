@@ -1,7 +1,5 @@
-[[Wyrn - Ideas]]
-
-Fabrique de la magie
-Peut être médium de divination
+[[Facette]] de la magie
+Peut être médium de divination (chez les [[Oracle Pourpre]] mainly)
 
 À la [[Fin des temps]], s'est dissous dans la [[Béance]]
 

@@ -3,12 +3,11 @@
 Mots clefs :
 mélancolique, cosmic, fantaisie, magie, contes
 
-Clairement focus sur [[Asborne]] mais pas que
-
 J'ai pas très envie d'épique fantasy, je veux surtout le drama, la tragédie, la résignation, l'espoir etc
 
 ### Structure des notes
 
+Artefacts : objets d'importance.
 Concepts : entités abstraites, catégories d'entités, etc
 Événements : le nom dit tout
 - Piliers de l'Histoire : événements importants dans le projet
