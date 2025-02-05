@@ -1,0 +1,1 @@
+Durant l'enfance d'[[Oracle Pourpre LD]], [[Asborne]] la prit sous son aile.
