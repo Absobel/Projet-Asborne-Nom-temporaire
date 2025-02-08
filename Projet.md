@@ -1,5 +1,7 @@
 [[Projet - Ideas]]
 
+[Slides de présentation](https://docs.google.com/presentation/d/1tliCbpE-TyZ_qkY8CWmogYLB4NxqgQHolNaD0U8KGwI/edit?usp=sharing)
+
 Mots clefs :
 mélancolique, cosmic, fantaisie, magie, contes
 

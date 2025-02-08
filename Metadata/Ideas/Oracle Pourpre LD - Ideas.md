@@ -1,8 +1,6 @@
 NOM ?????
 Besoin d'un nom même ?
 
-lointain prédécesseur de [[Oracle Pourpre F2]] dont l'ombre de ses plans en marche continue de peser sur elle
-
 Assassinat :
 - Par Qui ?
 	- Par quelqu'un d'évident selon elle-même
@@ -11,8 +9,6 @@ Assassinat :
 - Pourquoi ?
 	- Ça c'est la bonne question à se poser. Ça nécessiterait de connaître ses plans à elle déjà, ça pourrait découler de là.
 
-Quels sont ses buts ?
-- Refuser l'influence de [[Oracle Pourpre F2|F2]] ça c'est sur
-- La recherche
-	- De la [[Plateforme des Étoiles Muettes]]
-	- mais aussi de qqch avec [[Asborne]], mais whay, j'imagine une relation de filiale/partenaire entre les deux
+Quels sont ses buts tho en plus de s'écapper de l'unfluence de F2 et de comprendre la nature du monde ?
+
+N'a pas trouvé de successeur on purpose pour faire chier [[Oracle Pourpre F2]] ?

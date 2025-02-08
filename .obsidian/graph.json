@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Metadata",
+  "search": "-path:Metadata  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:Metadata  ",
+      "query": "path:Ideas  ",
       "color": {
         "a": 1,
         "rgb": 16515010
@@ -67,20 +67,20 @@
       "query": "path:Artefacts  ",
       "color": {
         "a": 1,
-        "rgb": 9108991
+        "rgb": 7405557
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.0107131830812,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 9.5821892393321,
-  "linkStrength": 1,
-  "linkDistance": 90,
-  "scale": 1.743813741176143,
+  "repelStrength": 9.09169496758259,
+  "linkStrength": 0.822043840691571,
+  "linkDistance": 30,
+  "scale": 0.4250553735212536,
   "close": true
 }

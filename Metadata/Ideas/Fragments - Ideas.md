@@ -24,6 +24,9 @@ Fragment [[Absariel]] 2:
 Fragments [[Oracle Pourpre LD]]
 - Recueil d'enregistrements
 
+Fragments Oracle Pourpre Anonyme
+- Subissant l'influence de [[Oracle Pourpre F2]]
+
 Autres idées de fragments :
 - Qqch sous la forme d'un conte
 - Qqch sous la forme d'un poème

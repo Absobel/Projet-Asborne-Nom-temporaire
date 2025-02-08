@@ -1,0 +1,1 @@
+Tbf je crois que mon but était principalement de faire average ville anonyme pas importante, d'où le nom simple, mais les idées que j'ai eu après coup avec les [[Anneaux]] et tout ont fait que.

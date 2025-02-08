@@ -17,7 +17,7 @@ Notes randoms :
 
 Habitants connus (durant [[Lore Disparu (AbSol)]]) :
 - [[Asborne]]
-	- Rarement présent
+	- Rarement présent voire très vite plus du tout
 - [[Oracle Pourpre LD]]
 	- Est la plus proche de ce que l'on pourrait appeler dirigeante des lieux.
 	- Passe la plupart de son temps dans ses quartiers, personne n'a le droit ni le pouvoir d'y entrer si ce n'est le [[Asborne|Roi]] lui-même. Personne ne sait ce qu'elle y fait.

@@ -1,0 +1,1 @@
+Le serveur appelé AbSol que j'avais avant. J'y avais commencé à faire du lore et tout et j'ai tenté d'en récupérer la plupart dans ce projet parce que c'est de là que m'était venu l'idée d'écrire [[1]]

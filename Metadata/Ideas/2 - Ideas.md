@@ -1,4 +1,4 @@
-[[Asborne]] semblait absolument furieux et zéro chill, why ?
+[[Asborne]] semblait absolument furieux et zéro chill, why ? [[Anneaux]] maybe, lien Forteresse Anneaux idk
 
 [[Peliades]] :
 > Tu n’es rien, tu ne sers à rien, tu n’as pas de sens, tu ne devrais pas exister !

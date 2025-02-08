@@ -16,6 +16,48 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "5d364f97f007b431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre LD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Pourpre LD"
+            }
+          },
+          {
+            "id": "7b8f32d4bf4f0523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata/Ideas/Asborne - Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asborne - Ideas"
+            }
+          },
+          {
+            "id": "212214dfffa6a6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Oracle Pourpre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Pourpre"
+            }
           }
         ]
       }
@@ -74,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5086555480957
   },
   "right": {
     "id": "96b16902767201bc",
@@ -108,11 +150,37 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Wyrn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Wyrn"
+            }
+          },
+          {
+            "id": "168406e75b02242f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f55bd110714a42a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Projet"
             }
           },
           {
@@ -124,9 +192,78 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5cb9f3f2897fe984",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "222a58f6766691d3",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3efaebce7a7f5b5b",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d39135bba7014199",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "78af5ddb9be4100f",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "22b2bd483d3947d5",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d368079dc7332a98",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,41 +277,40 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "9501f9cc1ec14638",
   "lastOpenFiles": [
-    "Personages/Créateurs de l'Histoire/Asborne.md",
-    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre F2.md",
-    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre LD.md",
-    "Fragments/4.md",
-    "Metadata/Ideas/Fragments - Ideas.md",
-    "Personages/Oubliés de l'Histoire/Assassin de l'Oracle.md",
-    "Évenements/Piliers de l'Histoire/Rencontre d'Asborne et d'OPLD.md",
-    "Metadata/Ideas/Abysse de la Solitude - Ideas.md",
-    "Fragments/Lore Disparu (AbSol).md",
-    "Évenements/Poussière d'Histoire/La grande Guerre.md",
-    "Évenements/Poussière d'Histoire/La chute des Anciens.md",
-    "Lieux/Abysse de la Solitude.md",
-    "Concepts/Facettes/Toile.md",
-    "Metadata/Ideas/Asborne - Ideas.md",
-    "Personages/Oubliés de l'Histoire/Mirages.md",
-    "Concepts/Facettes/Logique.md",
-    "Metadata/Author's Notes/4 - Commentary.md",
-    "Concepts/Pourpre.md",
-    "Évenements/Poussière d'Histoire/Nommage de l'Anomalie.md",
-    "Metadata/Author's Notes/Projet.md",
-    "Personages/Oubliés de l'Histoire/Oracle Pourpre F1.md",
     "Concepts/Polyèdre (nom temporaire).md",
-    "Concepts/Facettes/Wyrn.md",
-    "Concepts/Béance.md",
-    "Personages/Oubliés de l'Histoire/Anagual.md",
-    "Concepts/Facettes/Facette.md",
+    "Concepts/Pourpre.md",
+    "Projet.md",
+    "Metadata/Ideas/Projet - Ideas.md",
+    "Metadata/Author's Notes/4 - Commentary.md",
+    "Metadata/Author's Notes/Asborne - Commentary.md",
+    "Personages/Créateurs de l'Histoire/Asborne.md",
+    "Personages/Créateurs de l'Histoire/L'Adversaire (nom temporaire).md",
+    "Lieux/Plateforme des Étoiles Muettes.md",
+    "Personages/Créateurs de l'Histoire/Absariel.md",
+    "Concepts/Facettes/Logique.md",
+    "Évenements/Poussière d'Histoire/La grande Guerre.md",
+    "Concepts/Facettes/Temps.md",
+    "Concepts/Abysse.md",
+    "Lieux/Abysse de la Solitude.md",
+    "Concepts/Facettes/Conscience.md",
+    "Metadata/Ideas/Pourpre - Ideas.md",
+    "Évenements/Piliers de l'Histoire/Conquête de La Forteresse par Asborne.md",
+    "Fragments/4.md",
+    "Metadata/Author's Notes/Oracle Pourpre LD - Commentary.md",
+    "Personages/Créateurs de l'Histoire/Oracle Pourpre/Oracle Pourpre LD.md",
+    "Personages/Oubliés de l'Histoire/Mirages.md",
+    "Metadata/Ideas/Oracle Pourpre - Ideas.md",
+    "Concepts/Facettes/Espace.md",
+    "Metadata/Author's Notes/2 - Commentary.md",
+    "Metadata/Ideas/Oracle Pourpre LD - Ideas.md",
+    "Untitled.canvas",
     "Concepts/Facettes",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Artefacts",
     "Backup-Sorcier/Personages/Créateurs de l'Histoire/Oracle Pourpre",
     "Backup-Sorcier/Évenements/Poussière d'Histoire",
