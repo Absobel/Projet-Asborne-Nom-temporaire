@@ -16,3 +16,5 @@ En fait ça nécessite de réfléchir sur le concept du [[Temps]] :
 - À retenir, faire des recherches sur les différentes façon de voir le temps et checker laquelle est la meilleure pour coller à la thématique du mystérieux et du conte 
 	- Checker l'éternalisme de warframe
 - reréflechir avec l'idée des [[Facette]] en tête telles qu'écrites dans [[4]]
+
+A somehow été à l'épicentre d'une connexion [[Wyrn]]/[[Temps]] qui a attiré le [[Pourpre]] et a su en faire le plus en imposant son influence sur le [[Temps]] et sur les autres [[Oracle Pourpre]] pour faire en sorte que cette connexion perdure

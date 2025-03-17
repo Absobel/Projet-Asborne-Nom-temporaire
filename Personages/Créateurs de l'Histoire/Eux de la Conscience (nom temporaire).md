@@ -1,0 +1,1 @@
+[[Eux (nom temporaire)]] lié fortement à la [[Conscience]]. Communique par vibes, sentiments, etc.

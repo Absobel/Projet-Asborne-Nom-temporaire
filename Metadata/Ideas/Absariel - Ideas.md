@@ -7,3 +7,6 @@ vibes quand on colère
 	- Thématique ciel/soleil/orage
 	- rage of god thematic but without the god
 	- mais encore des idées de tristesse dont Asborne dégouline déjà
+- Manic >>>>>> as an excessive instead of the others
+
+Interaction [[Conscience]] avec une autre anomalie

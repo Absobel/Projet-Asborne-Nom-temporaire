@@ -8,3 +8,4 @@ Par analogie, [[Eux de l'Espace (nom temporaire)]] semblent être leur "chef", o
 
 Membres connus :
 - [[Eux de l'Espace (nom temporaire)]]
+- [[Eux de la Conscience (nom temporaire)]]

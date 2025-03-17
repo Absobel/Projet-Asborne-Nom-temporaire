@@ -13,3 +13,4 @@ Un concept ou une entité ? Un mélange des deux ?
 Pourquoi Pourpre et pas une autre couleur ? ([[4]] mention d'autres couleurs mais genre hmmm)
 
 Maybe à la frontière du [[Polyèdre (nom temporaire)]]
+- Attiré par les endroits ou les [[Facette]] interagissent. [[Temps]]/[[Wyrn]] : Oracle Pourpre + Asborne maybe

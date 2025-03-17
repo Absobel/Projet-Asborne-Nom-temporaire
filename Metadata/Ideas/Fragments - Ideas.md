@@ -29,4 +29,6 @@ Fragments Oracle Pourpre Anonyme
 
 Autres idées de fragments :
 - Qqch sous la forme d'un conte
+	- Asborne pré [[Conscience]] qui vient à la vie par une touche de idk amour/contact humain idk. Genre qqch style mythologie greque ou conte
+	- Princesse s'intéressant à une entité/objet maybe, et donnant de plus en plus d'elle jusqu'à être consommée et corrompue, donnant [[Asborne]] (qui garderait en lui, et étant même toute sa connexion avec la [[Conscience]], la princesse pour toujours)
 - Qqch sous la forme d'un poème

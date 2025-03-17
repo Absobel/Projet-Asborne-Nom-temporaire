@@ -13,6 +13,7 @@ Elle s'est beaucoup concentré dans la recherche. D'abord de la [[Plateforme des
 
 Elle en veut beaucoup à [[Asborne]] de l'avoir abandonnée alors même qu'elle le voyait un peu comme une figure paternelle du fait qu'il l'avait recueillie quand elle était jeune.
 
+
 ### Description :
 vieille personne
 

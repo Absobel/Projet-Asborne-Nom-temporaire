@@ -1,0 +1,1 @@
+Lien entre les concepts ex : wyrn influence sur esspace via toile or smth
