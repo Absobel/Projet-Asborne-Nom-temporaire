@@ -5,8 +5,22 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:Concepts/Facettes  ",
+      "color": {
+        "a": 1,
+        "rgb": 4674815
+      }
+    },
+    {
+      "query": "path:Concepts/Vacant  ",
+      "color": {
+        "a": 1,
+        "rgb": 8806
+      }
+    },
     {
       "query": "path:Concepts  ",
       "color": {
@@ -71,16 +85,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.0107131830812,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.09169496758259,
-  "linkStrength": 0.822043840691571,
-  "linkDistance": 30,
-  "scale": 0.5671241828078203,
+  "centerStrength": 0.355788823711022,
+  "repelStrength": 9.32757023772769,
+  "linkStrength": 0.78653905526397,
+  "linkDistance": 88,
+  "scale": 1.2809379561778962,
   "close": true
 }

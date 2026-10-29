@@ -1,0 +1,2 @@
+Peut-être l'espèce ayant besoin de soutiens métalliques pour controller leur membres comme [[Réa]], à moins que ce soit juste un handicap pour elle, ce que j'aime bien
+Peut-être très liés au [[Central]], ou pas
