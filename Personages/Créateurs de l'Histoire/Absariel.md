@@ -1,4 +1,4 @@
-[[Arafiel - Ideas]]
+[[Absariel - Ideas]]
 
 Son nom est écrit en langue [[Enedir|enedienne]]
 ### Description
@@ -15,6 +15,6 @@ Sourit souvent, joyeux, un peu mystérieux, bon enfant
 
 - [[5]]
 	- Événements narrés partiellement dans la section "Fiction" de la [[Bibliothèque-État]] dans un bouquin nommé [[Récits Inachevés]] (probablement réels)
-		- Arrivée d'Arafiel et de [[Val]] au [[Central]], première vision des [[Anneaux]]
+		- Arrivée d'Absariel et de [[Val]] au [[Central]], première vision des [[Anneaux]]
 		- ...
 		- Attends quelque chose/quelqu'un au [[Central]]
